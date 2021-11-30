@@ -1,0 +1,26 @@
+ User-specific files
+*.suo
+*.user
+*.userosscache 
+*.sln.docstates
+.vscode/
+
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+build/
+bld/
+docker_drop*/
+container_build_artifacts/
+[Bb]in/
+[Oo]bj/
+rcf/
+
+# VS2015 cache folder
+.vs/
+
+# Roslyn cache directories
+*.ide/

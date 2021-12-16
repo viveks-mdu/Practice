@@ -49,7 +49,9 @@ namespace PracticeAlgorithms
             TestTaskDelayAsync().Wait();
             */
 
+            /*
             WriteStreamAsync().Wait();
+            */
 
             Console.WriteLine("Program completed.");
         }

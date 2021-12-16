@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeAlgorithms", "PracticeAlgorithms\PracticeAlgorithms.csproj", "{1E82ABD8-8764-4EFE-A3FD-8EBA00AED757}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeAlgorithms", "PracticeAlgorithms\PracticeAlgorithms.csproj", "{1E82ABD8-8764-4EFE-A3FD-8EBA00AED757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestServiceBus", "TestServiceBus\TestServiceBus.csproj", "{E6F97966-E410-426D-8B61-6C7C86664F7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1E82ABD8-8764-4EFE-A3FD-8EBA00AED757}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E82ABD8-8764-4EFE-A3FD-8EBA00AED757}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E82ABD8-8764-4EFE-A3FD-8EBA00AED757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6F97966-E410-426D-8B61-6C7C86664F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F97966-E410-426D-8B61-6C7C86664F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F97966-E410-426D-8B61-6C7C86664F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F97966-E410-426D-8B61-6C7C86664F7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
